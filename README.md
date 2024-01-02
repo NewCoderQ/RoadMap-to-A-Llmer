@@ -8,3 +8,4 @@
 
 ### Reference
 [machine-learning-notes](https://github.com/luweiagi/machine-learning-notes)
+[pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq)
